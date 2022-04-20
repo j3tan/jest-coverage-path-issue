@@ -1,0 +1,25 @@
+{
+  "name": "jest-coverage-path-issue",
+  "version": "1.0.0",
+  "description": "Repro case for jest-coverage-paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j3tan/jest-coverage-path-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j3tan/jest-coverage-path-issue/issues"
+  },
+  "homepage": "https://github.com/j3tan/jest-coverage-path-issue#readme",
+  "dependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
